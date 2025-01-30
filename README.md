@@ -1,6 +1,6 @@
 # install Ropper with PyVEX (for semantic analysis)
 # CLI
-david@david:~/Study/Auto/pwn$ git clone https://github.com/sashs/Ropper.git
+david@david:/~/Study/Auto/pwn$ git clone https://github.com/sashs/Ropper.git
 cd Ropper
 Cloning into 'Ropper'...
 remote: Enumerating objects: 4000, done.
