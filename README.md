@@ -1,6 +1,15 @@
 # install Ropper with PyVEX (for semantic analysis)
-# CLI
-david@david:/~/Study/Auto/pwn$ git clone https://github.com/sashs/Ropper.git
+
+## Insatll 
+
+Disassembler - Ghidra/IDA/Radare/BinaryNinja/Hopper: https://gist.github.com/liba2k/d522b4...
+Debugger - GDB-PwnDBG/GEF/PEDA: https://infosecwriteups.com/pwndbg-ge...
+Checksec: https://github.com/slimm609/checksec.sh
+Ropper:  https://github.com/sashs/Ropper
+
+# Step by step install Ropper
+
+david@david:~/Study/Auto/pwn$ git clone https://github.com/sashs/Ropper.git
 cd Ropper
 Cloning into 'Ropper'...
 remote: Enumerating objects: 4000, done.
@@ -111,9 +120,5 @@ bash: cd: build: No such file or directory
 make: *** No targets specified and no makefile found.  Stop.
 make: *** No rule to make target 'install'.  Stop.
 david@david:~/Study/Auto/pwn/Ropper$ 
-## Insatll 
-Disassembler - Ghidra/IDA/Radare/BinaryNinja/Hopper: https://gist.github.com/liba2k/d522b4...
-Debugger - GDB-PwnDBG/GEF/PEDA: https://infosecwriteups.com/pwndbg-ge...
-Checksec: https://github.com/slimm609/checksec.sh
-Ropper:  https://github.com/sashs/Ropper
+
 
